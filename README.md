@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kaden! <br/><a href="https://github.com/Kad3n13"></a> <a href="https://https://www.linkedin.com/in/kaden-oberfeld/">Cybersecurity Professional</a>, <a href="https://https://www.youtube.com/@kad3n470">YouTuber</a></h1>
+<h1>Hi, I'm Kaden!   <br/><a href="https://github.com/Kad3n13"></a> <a href="https://https://www.linkedin.com/in/kaden-oberfeld/">Future Cybersecurity Professional</a>, <a href="https://https://www.youtube.com/@kad3n470">Analyst</a></h1>
 
 <h2>👨‍💻 Cyber secuirty Projects:</h2>
 
