@@ -13,6 +13,12 @@ https://www.credly.com/badges
 
 ![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/07074a8e-e0c9-445c-be0a-da4910f45da8)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="TryHackMe">
+
+![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/b1fec372-0889-4cc3-a851-ceca7220b0cb)
+
+
+
 
 https://www.coursera.org/account/accomplishments/professional-cert/VJEC2WHQRRN8
 
