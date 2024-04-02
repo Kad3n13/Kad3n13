@@ -15,7 +15,8 @@ https://www.credly.com/badges
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="TryHackMe">
 
-![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/aecbcfc1-e65d-48c3-bd29-5709f7b1f8d6)
+![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/ce2adcc5-d341-4390-9064-f2efa711a6f9)
+
 
 
 
