@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber secuirty Projects https://github.com/Kad3n13/Project.git:</h2>
 
-![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/bf318e89-beb9-4c05-b83c-da41a813f34b)
+![tyhack me 95PB](https://github.com/Kad3n13/Kad3n13/assets/159424810/c8463bbe-09bf-47b4-bc90-a680270d0cf3)
 
 
 <h3> Certifications </h3>  
@@ -12,10 +12,14 @@
 
 ![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/a7eeb877-7e17-46a5-8536-720c7a3f9524)
 
+![Cyber defense](https://github.com/Kad3n13/Kad3n13/assets/159424810/4d903941-8e71-4a66-b6f9-69d8aec2ba75)
+
 
 ![Cert 2 TRYHACKME](https://github.com/Kad3n13/Kad3n13/assets/159424810/c534de75-0ff8-4e77-8190-c5da9155e5aa)
 
-![certt tryhackme intro](https://github.com/Kad3n13/Kad3n13/assets/159424810/eb7b3738-8f05-4518-9b46-71a4cce69dc6)
+![certt tryhackme intro](https://github.com/Kad3n13/Kad3n13/assets/159424810/40d5eb98-6e4c-416a-a48a-27771be75573)
+
+
 
 
 
