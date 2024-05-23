@@ -2,13 +2,18 @@
 
 <h2>👨‍💻 Cyber secuirty Projects https://github.com/Kad3n13/Project.git:</h2>
 
-![tyhack me 95PB](https://github.com/Kad3n13/Kad3n13/assets/159424810/c8463bbe-09bf-47b4-bc90-a680270d0cf3)
+![new pb 3](https://github.com/Kad3n13/Kad3n13/assets/159424810/1bf48b36-4727-4b0b-913a-1dc40d72e950)
+
 
 
 <h3> Certifications </h3>  
 
 
 ![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/c77af9d9-e745-4e9a-990f-3c597547ff48)
+
+![Jr Penetration Tester](https://github.com/Kad3n13/Kad3n13/assets/159424810/dcb7bf96-c4eb-45dc-bdc3-e45b47bc9618)
+
+![Web fundementals](https://github.com/Kad3n13/Kad3n13/assets/159424810/42d2da9b-e4d3-4e37-9b72-75a03d1a9d26)
 
 ![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/a7eeb877-7e17-46a5-8536-720c7a3f9524)
 
@@ -26,17 +31,19 @@
 
 ![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/07074a8e-e0c9-445c-be0a-da4910f45da8)
 
+![hope 2](https://github.com/Kad3n13/Kad3n13/assets/159424810/4a78f95a-176d-4ac6-b8ac-491fc2e7d5a5)
+
+![hope 3](https://github.com/Kad3n13/Kad3n13/assets/159424810/16ca79e1-9177-4b09-8880-3c3b8ed1d041)
+
+![hope 4](https://github.com/Kad3n13/Kad3n13/assets/159424810/b594c41e-1ba6-42e4-be1b-d59741e3e773)
+
+![hope 5](https://github.com/Kad3n13/Kad3n13/assets/159424810/132b2f1b-cbe3-47bd-865a-a98964b41861)
 
 
-![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/5725294b-8b41-473f-9c87-9b46c3097f7e)
 
 
 
 
-
-
-
-https://www.coursera.org/account/accomplishments/professional-cert/VJEC2WHQRRN8
 
 
 
