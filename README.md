@@ -1,6 +1,8 @@
 <h1>Hi, I'm Kaden!   <br/><a href="https://github.com/Kad3n13"></a> <a href="https://https://www.linkedin.com/in/kaden-oberfeld/">Future Cybersecurity Professional</a>, <a href="https://https://www.youtube.com/@kad3n470">Analyst</a></h1>
 
 <h2>👨‍💻 Cyber secuirty Projects https://github.com/Kad3n13/Project.git:</h2>
+<h2> Home Network https://github.com/Kad3n13/Project</h2>
+<h2>PASSWORD INTEGRITY CHECKER https://github.com/Kad3n13/P-ssword-Integrity-Check </h2>
 
 ![new pb 3](https://github.com/Kad3n13/Kad3n13/assets/159424810/1bf48b36-4727-4b0b-913a-1dc40d72e950)
 
