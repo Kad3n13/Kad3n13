@@ -10,7 +10,8 @@
 
 
 
-![new pb 3](https://github.com/Kad3n13/Kad3n13/assets/159424810/1bf48b36-4727-4b0b-913a-1dc40d72e950) 
+![new PB   THM $](https://github.com/user-attachments/assets/f14c1e95-3922-459e-a069-a13e8ebb0e8e)
+
 
 
 
@@ -18,7 +19,8 @@
 <h3> Certifications </h3>  
 
 
-![image](https://github.com/Kad3n13/Kad3n13/assets/159424810/c77af9d9-e745-4e9a-990f-3c597547ff48)
+![Red Teaming (50 hours 20) minutes](https://github.com/user-attachments/assets/fd59f05e-3c4c-443e-aac4-2df07ef2e385)
+
 
 ![Jr Penetration Tester](https://github.com/Kad3n13/Kad3n13/assets/159424810/dcb7bf96-c4eb-45dc-bdc3-e45b47bc9618)
 
