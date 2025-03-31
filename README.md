@@ -6,7 +6,7 @@
 <h2>Keylogger (Adhere-by-ethical-guidlines) https://github.com/Kad3n13/Keylogger</h2> 
 <h2>VigenereCipherApp https://github.com/Kad3n13/VigenereCipherApp/tree/main</h2>
 <h2>(Html Websites)(https://github.com/Kad3n13/html)</h2>
-<h2>(Tour-Guide Website)https://github.com/Kad3n13/html/CipherVoyage.html</h2>
+<h2>(Tour-Guide Website)https://github.com/Kad3n13.github.io/html/CipherVoyage.html</h2>
 
 ![example 2 cipher](https://github.com/Kad3n13/Kad3n13/assets/159424810/f04b0b3e-5452-4eb8-a5cf-cf48733342be)
 
