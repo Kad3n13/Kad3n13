@@ -28,8 +28,9 @@
 
 
 
-![new PB   THM $](https://github.com/user-attachments/assets/f14c1e95-3922-459e-a069-a13e8ebb0e8e)
+[![TryHackMe Badge](https://tryhackme.com/badge/2951972.png)](https://tryhackme.com/p/2951972)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="Your Image Badge" />
 
 
 
