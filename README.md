@@ -30,7 +30,7 @@
 
 [![TryHackMe Badge](https://tryhackme.com/badge/2951972.png)](https://tryhackme.com/p/2951972)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png?update=0" alt="Your Image Badge" />
 
 
 
