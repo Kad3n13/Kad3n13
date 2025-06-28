@@ -1,129 +1,285 @@
-# 0x40p0
-<p align="center">
-  <a href="https://github.com/Kad3n13">
-    <img src="YOUR_PROFILE_IMAGE_URL" alt="Kad3n13" />
+<!-- Social Links -->
+<p align="center" style="margin-top: 0;">
+  <a href="https://www.youtube.com/@kad3n470" title="YouTube" target="_blank" rel="noopener noreferrer">
+    <img width="32" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaden-oberfeld/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img width="32" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
   </a>
 </p>
 
+<!-- Typing SVG Headings -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cypherpunk%20(Cryptologist%2FRed-teamer%2FPentester%2FDeveloper%2FProgrammer);%20%20;%%20%20&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=22"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%200xD&font=Fira%20Code&center=true&width=400&height=45&color=E040FB&pause=0&speed=30&size=28&vCenter=true" alt="Welcome 0xD"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=(Cryptologist%2FRed-teamer%2FPentester%2FDeveloper)&font=Fira%20Code&center=true&width=600&height=45&color=6A0DAD&pause=0&speed=50&size=22&vCenter=true" alt="Cryptologist/Red-teamer/Pentester/Developer"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines={Cypherpunk}&font=Fira%20Code&center=true&width=600&height=45&color=4CAF50&pause=3000&speed=70&size=22&vCenter=true" alt="{Cypherpunk}"/>
 </p>
 
-<!-- Social icons section -->
+<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://www.youtube.com/@kad3n470"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/kaden-oberfeld/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- Add more socials as needed -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kad3n13&show_icons=true&theme=radical&bg_color=1F222E&title_color=7B1FA2&icon_color=4CAF50&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kad3n13&layout=compact&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kad3n13&theme=radical&background=1F222E&ring=6A0DAD&fire=4CAF50&currStreakNum=388E3C&sideNums=4CAF50&currStreakLabel=7B1FA2&sideLabels=6A0DAD&dates=2E7D32&hide_border=true"/>
+</p>
+
+<!-- TryHackMe Badge -->
 <p align="center">
   <a href="https://tryhackme.com/p/Kad3n13">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="THM" />
+    <img src="https://github.com/user-attachments/assets/25a106a1-1d33-487c-b37d-9b176519b4c1" alt="THM" />
   </a>
 </p>
 
 
-<br/>
+<div style="text-align:center;">
+  <img 
+    src="https://github.com/user-attachments/assets/5a9f2dbd-8ed3-458e-9d17-b2fed69d995f" 
+    alt="Description of GIF" 
+    style="max-width:100%; width: 200px; height: auto;"
+  />
+</div>
 
-<!-- Social badges section -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
+  <a href="https://www.youtube.com/channel/UCxjgfIsIVTuHPeKE96vdKYg?sub_confirmation=1">
+    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCxjgfIsIVTuHPeKE96vdKYg?style=for-the-badge&color=6A0DAD&labelColor=4CAF50" />
   </a>
-  <a href="https://www.youtube.com/@kad3n470">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>
+  <a href="https://www.youtube.com/channel/UCxjgfIsIVTuHPeKE96vdKYg">
+    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCxjgfIsIVTuHPeKE96vdKYg?style=for-the-badge&color=7B1FA2&labelColor=388E3C" />
   </a>
   <a href="https://github.com/Kad3n13?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kad3n13?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Kad3n13?color=4CAF50&style=for-the-badge&labelColor=6A0DAD&logo=star" />
   </a>
   <a href="https://github.com/Kad3n13?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kad3n13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Kad3n13/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Kad3n13?color=2E7D32&labelColor=4A148C&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
 </p>
 
-<br/>
+<!-- About & Achievements -->
+<h2>📋 About Me & Achievements</h2>
+<p>🎓 <img alt="Degree" src="https://img.shields.io/badge/Bachelor's%20in%20Cybersecurity-Expected%202028-4caf50?style=flat-square"/></p>
 
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Kad3n13/Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Project&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project"></a>
-    <a href="https://github.com/Kad3n13/P-ssword-Integrity-Check"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=P-ssword-Integrity-Check&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="P-ssword-Integrity-Check"></a>
-    <a href="https://github.com/Kad3n13/Keylogger"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Keylogger&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Keylogger"></a>
-    <a href="https://github.com/Kad3n13/VigenereCipherApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=VigenereCipherApp&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="VigenereCipherApp"></a>
-    <a href="https://github.com/Kad3n13/html"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=html&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="html"></a>
-    <a href="https://github.com/Kad3n13/AES-256-CBC-EU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=AES-256-CBC-EU&theme=react&bg_color=1F222E&title_color=1E90FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="AES-256-CBC-EU"></a>
-    <!-- Add more project cards as needed -->
-  </p>
-  <a href="https://github.com/Kad3n13?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
+<h3>🏆 Certifications:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_IT_Support-Completed-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TryHackMe_SOC_L1-Completed-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TryHackMe_Red_Teaming-Completed-6a0dad?style=flat-square"/>
+</p>
 
 <details>
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-  <a href="https://www.youtube.com/watch?v=VNWjaV3UcIY"><img src="https://ytcards.demolab.com/?id=VNWjaV3UcIY&title=YouTube+Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 1"></a>
-  <a href="https://www.youtube.com/watch?v=99-O8V6VAQU"><img src="https://ytcards.demolab.com/?id=99-O8V6VAQU&title=YouTube+Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 2"></a>
-  <a href="https://www.youtube.com/watch?v=mS7Pr1HTc4g"><img src="https://ytcards.demolab.com/?id=mS7Pr1HTc4g&title=YouTube+Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 3"></a>
-  <a href="https://www.youtube.com/watch?v=hEkhiMAWpxs"><img src="https://ytcards.demolab.com/?id=hEkhiMAWpxs&title=YouTube+Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 4"></a>
-  <a href="https://www.youtube.com/watch?v=u7dgOaYNdy8"><img src="https://ytcards.demolab.com/?id=u7dgOaYNdy8&title=YouTube+Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 5"></a>
-  <a href="https://www.youtube.com/watch?v=nvPbnY49NvI"><img src="https://ytcards.demolab.com/?id=nvPbnY49NvI&title=YouTube+Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 6"></a>
-  <p><a href="https://github.com/DenverCoder1/github-readme-youtube-cards"></a></p>
-  <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>
-  </a>
-</details>
-
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"></a>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white"></a>
-    <!-- Add more languages as you wish -->
-  </p>
-  <h3>🧰 Frameworks and Libraries</h3>
-  <p>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
-    <!-- Add more frameworks as you wish -->
-  </p>
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-  <p>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"></a>
-    <!-- Add more databases as you wish -->
-  </p>
-  <h3>💻 Software and Tools</h3>
-  <p>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-    <!-- Add more tools as you wish -->
-  </p>
-</details>
-<!-- Collapsible resume section -->
-<details>
-  <summary><h2>📋 About Me & Achievements</h2></summary>
+  <summary><strong>Details</strong></summary>
   <ul>
-    <li>🎓 <b>Bachelor's in Cybersecurity & Information Assurance</b> (Expected 2028)</li>
-    <li>🏆 <b>Certifications:</b> Google Cybersecurity Professional, Google IT Support, TryHackMe (SOC L1, Red Teaming, Jr Pentester, Cyber Defense,</li>
-    <li>💼 <b>Experience:</b> Goldman Sachs (GRC Advisor), Concentrix (IT Support), Raising Cane’s (Support), NCL</li>
-    <li>🔑 <b>Domains:</b> SOC Ops, Threat Intel, DFIR, SIEM, Ethical Hacking, Web App Security</li>
-    <li>🧰 <b>Tools:</b> Splunk, ELK, Zeek, Wireshark, Sysmon, Burp Suite, OpenVAS, Nessus</li>
-    <li>🛡️ <b>Attacks/Defense:</b> XSS, Command Injection, SQLi, Phishing, Priv Esc</li>
-    <li>🐍 <b>Python, Regex, Web Scraping, Scripting</b></li>
-    <li>🏆 <b>CTF & Labs:</b> Bsides Chicago 2024 (Top 10k, HackTheBox) (Top 1%, 119 targets, 8 user/system owns), NCL (91st team, 1327th solo) </li>
-    <li>📧 <b>Email:</b> Inquire  for email</li>
+    <li><strong>Concentrix (Fortune 500) – GRC Advisor II / IT Support</strong></li>
+    <li>Secured over <strong>$700,000</strong> in customer assets following all protocols</li>
+    <li>Used <strong>quantitative analysis</strong> to detect financial threats and patterns</li>
+    <li>Worked with fraud, IT, and security teams to mitigate risk</li>
+    <li>Protected sensitive data (PII, SII, GS Bank Info) while enhancing services</li>
+    <li>Completed 68+ C# courses on attack defense and memory safety</li>
   </ul>
 </details>
+
+<h3>💼 Experience:</h3>
+<p><img src="https://img.shields.io/badge/Goldman_Sachs_GRC_--_Concentrix_IT_Support-ff6f61?style=flat-square"/></p>
+
+
+<p><img  <img src="https://img.shields.io/badge/NCL-Participant-ff6f61?style=flat-square"/></p>
+
+## 🏆 CTF & Labs
+
+- ![Bsides Chicago 2024](https://img.shields.io/badge/Bsides_Chicago%20-4caf50?style=for-the-badge)
+- ![HackTheBox](https://img.shields.io/badge/HackTheBox-Top%201%25-6a0dad?style=for-the-badge)
+- ![NCL](https://img.shields.io/badge/NCL-91st%20team%2C%201327th%20solo-388e3c?style=for-the-badge)
+
+## 👨‍💻 Programming and Markup Languages
+## Learning/Learned
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
+## Immediate Objective's/Programming langauges
+![Assembly](https://img.shields.io/badge/Assembly-grey?style=for-the-badge&logo=assembly&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+<br />
+
+## 1 Frameworks and Libraries Learnt
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-FF6600?style=for-the-badge)
+
+<details>
+  <summary>
+    <code style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://raw.githubusercontent.com/Kad3n13/main/assets/robot.svg" width="20" height="20" style="vertical-align: middle;" />
+      Goals
+    </code>
+    – Frameworks and Libraries to Learn (Click to expand)
+  </summary>
+
+  <!-- Your framework badges go here -->
+
+</details>
+
+
+### CSS Frameworks and Libraries To Learn
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Foundation](https://img.shields.io/badge/Foundation-2F353A?style=for-the-badge&logo=foundation&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-3B97D3?style=for-the-badge&logo=semantic-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
+
+---
+
+### JSS Frameworks and Libraries to Learn
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
+
+### C Frameworks and Libraries to Learn
+
+![GTK](https://img.shields.io/badge/GTK-476D8C?style=for-the-badge&logo=gnome&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![libcurl](https://img.shields.io/badge/libcurl-035E9A?style=for-the-badge&logo=curl&logoColor=white)
+![Glib](https://img.shields.io/badge/Glib-519ABA?style=for-the-badge&logo=gnome&logoColor=white)
+
+---
+
+### C++ Frameworks and Libraries to Learn
+
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Cinder](https://img.shields.io/badge/Cinder-ED5E3F?style=for-the-badge&logo=cinder&logoColor=white)
+![POCO](https://img.shields.io/badge/POCO-1E90FF?style=for-the-badge&logo=pocoproject&logoColor=white)
+
+---
+
+### C# Frameworks and Libraries to Learn
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### Rust Frameworks and Libraries to Learn
+
+![Rocket](https://img.shields.io/badge/Rocket-4E7AC7?style=for-the-badge&logo=rocket&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-0E1216?style=for-the-badge&logo=tokio&logoColor=white)
+![Diesel](https://img.shields.io/badge/Diesel-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Serde](https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+### Python Frameworks and Libraries to Learn
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pyramid](https://img.shields.io/badge/Pyramid-000000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### Java Frameworks and Libraries to Learn
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-009999?style=for-the-badge)
+![Struts](https://img.shields.io/badge/Struts-007396?style=for-the-badge)
+![Vaadin](https://img.shields.io/badge/Vaadin-0B6DC1?style=for-the-badge&logo=vaadin&logoColor=white)
+
+---
+
+### Ruby Frameworks and Libraries to Learn
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=for-the-badge)
+![Hanami](https://img.shields.io/badge/Hanami-79B7E0?style=for-the-badge)
+![Padrino](https://img.shields.io/badge/Padrino-8B0000?style=for-the-badge)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+
+---
+
+### PHP Frameworks and Libraries to Learn
+
+![Laravel](https://img.shields.io/badge/Laravel-F95347?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-702963?style=for-the-badge&logo=cakephp&logoColor=white)
+![Phalcon](https://img.shields.io/badge/Phalcon-1F334A?style=for-the-badge&logo=phalcon&logoColor=white)
+
+
+</details>
+
+
+</details>
+
+
+<br />
+
+## 🗄️ Databases and Cloud Hosting
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br />
+
+## Maintained Operating Systems.
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-002D72?style=for-the-badge&logo=linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+<br />
+
+## Used Operating Systems.
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-%F0%9F%90%A7%20%2B%20%F0%9F%AA%9F-blue?style=for-the-badge)
+![Athena OS](https://img.shields.io/badge/Athena%20OS-4B0082?style=for-the-badge&logo=linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows11/10](https://img.shields.io/badge/Windows-10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-002D72?style=for-the-badge&logo=linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+
