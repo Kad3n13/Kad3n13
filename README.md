@@ -59,20 +59,57 @@
   </a>
 </p>
 
-<!-- About & Achievements -->
-<h2>📋 About Me & Achievements</h2>
-<p>🎓 <img alt="Degree" src="https://img.shields.io/badge/Bachelor's%20in%20Cybersecurity-Expected%202028-4caf50?style=flat-square"/></p>
+**`About Me & Achievements`**
+<br>
+---
+<p> <img alt="Degree" src="https://img.shields.io/badge/Bachelor's%20in%20Cybersecurity-Expected%202028-4caf50?style=flat-square"/></p>
 
-<h3>🏆 Certifications:</h3>
+**`Certifications`**
+<br>
+---
 <p>
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-Completed-6a0dad?style=flat-square"/>
   <img src="https://img.shields.io/badge/Google_IT_Support-Completed-6a0dad?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TryHackMe_SOC_L1-Completed-6a0dad?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TryHackMe_Red_Teaming-Completed-6a0dad?style=flat-square"/>
-</p>
+  <img src="https://img.shields.io/badge/THM_SOC_L1-Completed-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/THMCyber_Defense-Completed-6a0dad?style=flat-square"/>
+<img src="https://img.shields.io/badge/THMWeb_Fundamentals-Completed-6a0dad?style=flat-square"/>
 
+  <img src="https://img.shields.io/badge/TryHackMe_Red_Teaming-Completed-6a0dad?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jr_Penetration_Tester-Completed-6a0dad?style=flat-square"/>
+
+</p>
 <details>
-  <summary><strong>Details</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/Certs_I_Need_to_Get-Click_to_View-28a745?style=flat-square" alt="Certs I Need to Get" />
+  </summary>
+<img src="https://img.shields.io/badge/ITIL_Foundation-Pending-d73a49?style=flat-square" alt="ITIL Foundation" />
+<img src="https://img.shields.io/badge/CompTIA_A%2B-Pending-d73a49?style=flat-square" alt="CompTIA A+" />
+<img src="https://img.shields.io/badge/CompTIA_Data%2B-Pending-d73a49?style=flat-square" alt="CompTIA Data+" />
+<img src="https://img.shields.io/badge/CompTIA_Network%2B-Pending-d73a49?style=flat-square" alt="CompTIA Network+" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Pending-d73a49?style=flat-square" alt="CompTIA Security+" />
+<img src="https://img.shields.io/badge/CompTIA_Project%2B-Pending-d73a49?style=flat-square" alt="CompTIA Project+" />
+<img src="https://img.shields.io/badge/CompTIA_CySA%2B-Pending-d73a49?style=flat-square" alt="CompTIA CySA+" />
+<img src="https://img.shields.io/badge/CompTIA_PenTest%2B-Pending-d73a49?style=flat-square" alt="CompTIA PenTest+" />
+<img src="https://img.shields.io/badge/Network_Vuln_Assessment_Pro-Pending-d73a49?style=flat-square" alt="Network Vulnerability Assessment Pro" />
+<img src="https://img.shields.io/badge/Network_Security_Pro-Pending-d73a49?style=flat-square" alt="Network Security Professional" />
+<img src="https://img.shields.io/badge/Security_Analytics_Pro-Pending-d73a49?style=flat-square" alt="Security Analytics Professional" />
+<img src="https://img.shields.io/badge/IT_Operations_Specialist-Pending-d73a49?style=flat-square" alt="IT Operations Specialist" />
+<img src="https://img.shields.io/badge/Secure_Infrastructure_Specialist-Pending-d73a49?style=flat-square" alt="Secure Infrastructure Specialist" />
+<img src="https://img.shields.io/badge/Linux_Essentials-Pending-d73a49?style=flat-square" alt="Linux Essentials" />
+<img src="https://img.shields.io/badge/CCSP-Pending-d73a49?style=flat-square" alt="CCSP" />
+<img src="https://img.shields.io/badge/SSCP-Pending-d73a49?style=flat-square" alt="SSCP" />
+
+
+
+</details
+
+**`WORK`**
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/Goldman_Sachs_GRC_--_Concentrix_IT_Support-ff6f61?style=flat-square" alt="Badge" />
+  </summary>
+  
+  <!-- Dropdown content goes here -->
   <ul>
     <li><strong>Concentrix (Fortune 500) – GRC Advisor II / IT Support</strong></li>
     <li>Secured over <strong>$700,000</strong> in customer assets following all protocols</li>
@@ -83,20 +120,55 @@
   </ul>
 </details>
 
-<h3>💼 Experience:</h3>
-<p><img src="https://img.shields.io/badge/Goldman_Sachs_GRC_--_Concentrix_IT_Support-ff6f61?style=flat-square"/></p>
+  </summary>
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/NCL-Participant-ff6f61?style=flat-square" alt="NCL Participant Badge" />
+  </summary>
+
+  <p>I recently competed in the Experienced Students bracket of a cybersecurity competition, ranking <strong>91st out of 534 teams</strong> (top 17%), earning a <strong>Diamond rank</strong>. My team also placed <strong>Top 5 in the coached game</strong>, demonstrating strong collaboration and strategic execution.</p>
+
+  <h3>Key Technical Achievements:</h3>
+  <ul>
+    <li><strong>Cryptography:</strong> Solved complex challenges using advanced password cracking and reverse engineering, showcasing expertise in encryption and decryption.</li>
+    <li><strong>OSINT:</strong> Effectively gathered and analyzed public intelligence to identify critical vulnerabilities.</li>
+    <li><strong>Network Traffic Analysis:</strong> Detected anomalies and potential threats through detailed monitoring and analysis.</li>
+    <li><strong>Log Analysis:</strong> Ranked among top performers by extracting actionable insights from system logs for incident response.</li>
+    <li><strong>Scanning & Reconnaissance:</strong> Conducted comprehensive vulnerability mapping to support exploitation strategies.</li>
+    <li><strong>Digital Forensics:</strong> Recovered and analyzed digital evidence to reconstruct security incidents.</li>
+    <li><strong>Web Application Exploitation:</strong> Identified and leveraged vulnerabilities to extract sensitive data.</li>
+    <li><strong>Penetration Testing:</strong> Executed enumeration and exploitation techniques for privilege escalation and system compromise.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/Scores-View-28a745?style=flat-square" alt="Scores Badge" />
+  </summary>
+
+  <div style="display: flex; gap: 8px; flex-wrap: nowrap;">
+    <img src="https://github.com/user-attachments/assets/25fb0a50-5f20-482f-97e3-c4ca22c69fcd" alt="Score 1" style="width: 162px; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/d1e05933-3c74-4bec-8f33-44ca67939eb2" alt="Score 2" style="width: 162px; height: auto;" />
+  </div>
+
+</details>
 
 
-<p><img  <img src="https://img.shields.io/badge/NCL-Participant-ff6f61?style=flat-square"/></p>
 
-## 🏆 CTF & Labs
 
+
+
+**`CTF & Labs`**
+<br>
+---
 - ![Bsides Chicago 2024](https://img.shields.io/badge/Bsides_Chicago%20-4caf50?style=for-the-badge)
 - ![HackTheBox](https://img.shields.io/badge/HackTheBox-Top%201%25-6a0dad?style=for-the-badge)
 - ![NCL](https://img.shields.io/badge/NCL-91st%20team%2C%201327th%20solo-388e3c?style=for-the-badge)
 
-## 👨‍💻 Programming and Markup Languages
-## Learning/Learned
+
+**`Programming and Markup Languages Learning/Learned`**
+<br>
+---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -106,8 +178,14 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-
-## Immediate Objective's/Programming langauges
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/GOALS-green" alt="GOALS" />
+  </summary>
+  
+**`Immediate Objective's/Programming langauges`**
+<br>
+---
 ![Assembly](https://img.shields.io/badge/Assembly-grey?style=for-the-badge&logo=assembly&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
@@ -115,30 +193,26 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+</details>
 
 
 <br />
 
-## 1 Frameworks and Libraries Learnt
-
+**`Frameworks and Libraries Learnt`**
+<br>
+---
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![Pytest](https://img.shields.io/badge/Pytest-FF6600?style=for-the-badge)
 
 <details>
-  <summary style="list-style: none; cursor: pointer; display: inline-block;">
-    <a href="https://example.com">
-      <img src="https://raw.githubusercontent.com/Kad3n13/main/assets/robotframework.svg" 
-           width="40" height="40" alt="" />
-    </a>
+  <summary>
+    <img src="https://img.shields.io/badge/GOALS-green" alt="GOALS" />
   </summary>
-  <p>Your dropdown content here</p>
-</details>
 
-
-### CSS Frameworks and Libraries To Learn
-
+**`CSS Frameworks and Libraries To Learn`**
+<br>
+---
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
@@ -151,8 +225,9 @@
 
 ---
 
-### JSS Frameworks and Libraries to Learn
-
+**`JSS Frameworks and Libraries to Learn`**
+<br>
+---
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -166,8 +241,9 @@
 
 ---
 
-### C Frameworks and Libraries to Learn
-
+**`C Frameworks and Libraries to Learn`**
+<br>
+---
 ![GTK](https://img.shields.io/badge/GTK-476D8C?style=for-the-badge&logo=gnome&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![libcurl](https://img.shields.io/badge/libcurl-035E9A?style=for-the-badge&logo=curl&logoColor=white)
@@ -175,7 +251,9 @@
 
 ---
 
-### C++ Frameworks and Libraries to Learn
+`**C++ Frameworks and Libraries to Learn`**
+<br>
+---
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
@@ -185,8 +263,9 @@
 
 ---
 
-### C# Frameworks and Libraries to Learn
-
+`**C# Frameworks and Libraries to Learn`**
+<br>
+---
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -195,8 +274,9 @@
 
 ---
 
-### Rust Frameworks and Libraries to Learn
-
+`**Rust Frameworks and Libraries to Learn`**
+<br>
+---
 ![Rocket](https://img.shields.io/badge/Rocket-4E7AC7?style=for-the-badge&logo=rocket&logoColor=white)
 ![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-0E1216?style=for-the-badge&logo=tokio&logoColor=white)
@@ -205,8 +285,9 @@
 
 ---
 
-### Python Frameworks and Libraries to Learn
-
+**`Python Frameworks and Libraries to Learn`**
+<br>
+---
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -216,8 +297,9 @@
 
 ---
 
-### Java Frameworks and Libraries to Learn
-
+**`Java Frameworks and Libraries to Learn`**
+<br>
+---
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-009999?style=for-the-badge)
@@ -226,8 +308,9 @@
 
 ---
 
-### Ruby Frameworks and Libraries to Learn
-
+**`Ruby Frameworks and Libraries to Learn`**
+<br>
+---
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=for-the-badge)
 ![Hanami](https://img.shields.io/badge/Hanami-79B7E0?style=for-the-badge)
@@ -236,14 +319,16 @@
 
 ---
 
-### PHP Frameworks and Libraries to Learn
-
+**`PHP Frameworks and Libraries to Learn`**
+<br>
+---
 ![Laravel](https://img.shields.io/badge/Laravel-F95347?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-702963?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Phalcon](https://img.shields.io/badge/Phalcon-1F334A?style=for-the-badge&logo=phalcon&logoColor=white)
 
+</details>
 
 </details>
 
@@ -252,25 +337,41 @@
 
 
 <br />
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/DB%20-003366?style=flat" alt="USED" />
 
-## 🗄️ Databases and Cloud Hosting
+  </summary>
+  
+**`Databases and Cloud Hosting`**
+<br>
+---
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
+</details>
 <br />
 
-## Maintained Operating Systems.
+**`Maintained Operating Systems`**
+<br>
+---
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-002D72?style=for-the-badge&logo=linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 <br />
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/USED-800080?style=flat" alt="USED" />
 
-## Used Operating Systems.
+  </summary>
+  
+**`Used Operating Systems`**
+<br>
+--
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-%F0%9F%90%A7%20%2B%20%F0%9F%AA%9F-blue?style=for-the-badge)
 ![Athena OS](https://img.shields.io/badge/Athena%20OS-4B0082?style=for-the-badge&logo=linux&logoColor=white)
@@ -279,4 +380,6 @@
 ![Windows11/10](https://img.shields.io/badge/Windows-10/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-002D72?style=for-the-badge&logo=linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+</details>
