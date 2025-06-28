@@ -58,22 +58,83 @@
     <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Kad3n13?color=2E7D32&labelColor=4A148C&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
 </p>
+<!-- Top Open Source Projects -->
+<details>
+  <summary>
+    <img
+      alt="Repos"
+      src="https://img.shields.io/badge/Repos-6A0DAD?style=for-the-badge&logo=github&logoColor=white"
+      style="cursor: pointer;"
+    />
+  </summary>
+
+  <p align="left" style="margin-top: 10px;">
+    <a href="https://github.com/Kad3n13/AES-256-CBC-EU">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=AES-256-CBC-EU&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=4CAF50&show_icons=false" alt="AES-256-CBC-EU">
+    </a>
+    <a href="https://github.com/Kad3n13/reg-form">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=reg-form&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=388E3C&show_icons=false" alt="reg-form">
+    </a>
+    <a href="https://github.com/Kad3n13/Login-Page">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Login-Page&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Login-Page">
+    </a>
+    <a href="https://github.com/Kad3n13/VigenereCipherApp">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=VigenereCipherApp&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=2E7D32&show_icons=false" alt="VigenereCipherApp">
+    </a>
+    <a href="https://github.com/Kad3n13/Data-Project-2-">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Data-Project-2-&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Data-Project-2-">
+    </a>
+    <a href="https://github.com/Kad3n13/Missed_Apts">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Missed_Apts&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=388E3C&show_icons=false" alt="Missed_Apts">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Kad3n13?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
+    </a>
+  </p>
+</details>
+
+---
 
 <details>
   <summary>
-    <img src="https://img.shields.io/badge/YouTube-%23-%234CAF50?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+    <img
+      src="https://img.shields.io/badge/YouTube-4CAF50?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube Badge"
+      style="cursor: pointer;"
+    />
   </summary>
-  <a href="https://www.youtube.com/watch?v=VNWjaV3UcIY"><img src="https://ytcards.demolab.com/?id=VNWjaV3UcIY&title=YouTube+Video+1&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 1"></a>
-  <a href="https://www.youtube.com/watch?v=99-O8V6VAQU"><img src="https://ytcards.demolab.com/?id=99-O8V6VAQU&title=YouTube+Video+2&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 2"></a>
-  <a href="https://www.youtube.com/watch?v=mS7Pr1HTc4g"><img src="https://ytcards.demolab.com/?id=mS7Pr1HTc4g&title=YouTube+Video+3&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 3"></a>
-  <a href="https://www.youtube.com/watch?v=hEkhiMAWpxs"><img src="https://ytcards.demolab.com/?id=hEkhiMAWpxs&title=YouTube+Video+4&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%232E7D32&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 4"></a>
-  <a href="https://www.youtube.com/watch?v=u7dgOaYNdy8"><img src="https://ytcards.demolab.com/?id=u7dgOaYNdy8&title=YouTube+Video+5&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 5"></a>
-  <a href="https://www.youtube.com/watch?v=nvPbnY49NvI"><img src="https://ytcards.demolab.com/?id=nvPbnY49NvI&title=YouTube+Video+6&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 6"></a>
-  <p><a href="https://github.com/DenverCoder1/github-readme-youtube-cards"></a></p>
-  <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-6A0DAD?style=for-the-badge&logo=video&logoColor=white"/>
-  </a>
+
+  <p>
+    <a href="https://www.youtube.com/watch?v=VNWjaV3UcIY" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=VNWjaV3UcIY&title=YouTube+Video+1&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 1" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=99-O8V6VAQU" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=99-O8V6VAQU&title=YouTube+Video+2&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 2" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=mS7Pr1HTc4g" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=mS7Pr1HTc4g&title=YouTube+Video+3&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 3" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=hEkhiMAWpxs" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=hEkhiMAWpxs&title=YouTube+Video+4&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%232E7D32&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 4" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=u7dgOaYNdy8" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=u7dgOaYNdy8&title=YouTube+Video+5&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 5" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=nvPbnY49NvI" target="_blank" rel="noopener noreferrer">
+      <img src="https://ytcards.demolab.com/?id=nvPbnY49NvI&title=YouTube+Video+6&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 6" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-6A0DAD?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe Button" />
+    </a>
+  </p>
 </details>
+
 
 **`About Me & Achievements`**
 <br>
