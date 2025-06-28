@@ -1,3 +1,4 @@
+# 0x40p0
 <p align="center">
   <a href="https://github.com/Kad3n13">
     <img src="YOUR_PROFILE_IMAGE_URL" alt="Kad3n13" />
@@ -6,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cypherpunk%20(Cryptologist%2FRed-teamer%2FPentester%2FDeveloper%2FProgrammer);Cyber%20Security%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=22"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cypherpunk%20(Cryptologist%2FRed-teamer%2FPentester%2FDeveloper%2FProgrammer);%20%20;%%20%20&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 
@@ -72,7 +73,7 @@
   <a href="https://www.youtube.com/watch?v=hEkhiMAWpxs"><img src="https://ytcards.demolab.com/?id=hEkhiMAWpxs&title=YouTube+Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 4"></a>
   <a href="https://www.youtube.com/watch?v=u7dgOaYNdy8"><img src="https://ytcards.demolab.com/?id=u7dgOaYNdy8&title=YouTube+Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 5"></a>
   <a href="https://www.youtube.com/watch?v=nvPbnY49NvI"><img src="https://ytcards.demolab.com/?id=nvPbnY49NvI&title=YouTube+Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 6"></a>
-  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"></a></p>
+  <p><a href="https://github.com/DenverCoder1/github-readme-youtube-cards"></a></p>
   <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1">
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>
   </a>
