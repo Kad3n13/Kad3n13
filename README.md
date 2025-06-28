@@ -328,7 +328,7 @@
 
 ---
 
-`**C++ Frameworks and Libraries to Learn`**
+**`C++ Frameworks and Libraries to Learn`**
 <br>
 ---
 
@@ -340,7 +340,7 @@
 
 ---
 
-`**C# Frameworks and Libraries to Learn`**
+**`C# Frameworks and Libraries to Learn`**
 <br>
 ---
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -351,7 +351,7 @@
 
 ---
 
-`**Rust Frameworks and Libraries to Learn`**
+**`Rust Frameworks and Libraries to Learn`**
 <br>
 ---
 ![Rocket](https://img.shields.io/badge/Rocket-4E7AC7?style=for-the-badge&logo=rocket&logoColor=white)
