@@ -59,6 +59,22 @@
   </a>
 </p>
 
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/YouTube-%23-%234CAF50?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </summary>
+  <a href="https://www.youtube.com/watch?v=VNWjaV3UcIY"><img src="https://ytcards.demolab.com/?id=VNWjaV3UcIY&title=YouTube+Video+1&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 1"></a>
+  <a href="https://www.youtube.com/watch?v=99-O8V6VAQU"><img src="https://ytcards.demolab.com/?id=99-O8V6VAQU&title=YouTube+Video+2&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 2"></a>
+  <a href="https://www.youtube.com/watch?v=mS7Pr1HTc4g"><img src="https://ytcards.demolab.com/?id=mS7Pr1HTc4g&title=YouTube+Video+3&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 3"></a>
+  <a href="https://www.youtube.com/watch?v=hEkhiMAWpxs"><img src="https://ytcards.demolab.com/?id=hEkhiMAWpxs&title=YouTube+Video+4&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%232E7D32&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 4"></a>
+  <a href="https://www.youtube.com/watch?v=u7dgOaYNdy8"><img src="https://ytcards.demolab.com/?id=u7dgOaYNdy8&title=YouTube+Video+5&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 5"></a>
+  <a href="https://www.youtube.com/watch?v=nvPbnY49NvI"><img src="https://ytcards.demolab.com/?id=nvPbnY49NvI&title=YouTube+Video+6&lang=en&background_color=%230d1117&title_color=%234A148C&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="YouTube Video 6"></a>
+  <p><a href="https://github.com/DenverCoder1/github-readme-youtube-cards"></a></p>
+  <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-6A0DAD?style=for-the-badge&logo=video&logoColor=white"/>
+  </a>
+</details>
+
 **`About Me & Achievements`**
 <br>
 ---
