@@ -19,7 +19,7 @@
   <!-- Add more socials as needed -->
 <p align="center">
   <a href="https://tryhackme.com/p/Kad3n13">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="TryHackMe" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kadencsgo.png" alt="THM" />
   </a>
 </p>
 
@@ -110,4 +110,19 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
     <!-- Add more tools as you wish -->
   </p>
+</details>
+<!-- Collapsible resume section -->
+<details>
+  <summary><h2>📋 About Me & Achievements</h2></summary>
+  <ul>
+    <li>🎓 <b>Bachelor's in Cybersecurity & Information Assurance</b> (Expected 2028)</li>
+    <li>🏆 <b>Certifications:</b> Google Cybersecurity Professional, Google IT Support, TryHackMe (SOC L1, Red Teaming, Jr Pentester, Cyber Defense,</li>
+    <li>💼 <b>Experience:</b> Goldman Sachs (GRC Advisor), Concentrix (IT Support), Raising Cane’s (Support), NCL</li>
+    <li>🔑 <b>Domains:</b> SOC Ops, Threat Intel, DFIR, SIEM, Ethical Hacking, Web App Security</li>
+    <li>🧰 <b>Tools:</b> Splunk, ELK, Zeek, Wireshark, Sysmon, Burp Suite, OpenVAS, Nessus</li>
+    <li>🛡️ <b>Attacks/Defense:</b> XSS, Command Injection, SQLi, Phishing, Priv Esc</li>
+    <li>🐍 <b>Python, Regex, Web Scraping, Scripting</b></li>
+    <li>🏆 <b>CTF & Labs:</b> Bsides Chicago 2024 (Top 10k, HackTheBox) (Top 1%, 119 targets, 8 user/system owns), NCL (91st team, 1327th solo) </li>
+    <li>📧 <b>Email:</b> Inquire  for email</li>
+  </ul>
 </details>
