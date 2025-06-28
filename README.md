@@ -127,16 +127,13 @@
 ![Pytest](https://img.shields.io/badge/Pytest-FF6600?style=for-the-badge)
 
 <details>
-  <summary>
-    <code style="display: inline-flex; align-items: center; gap: 6px;">
-      <img src="https://raw.githubusercontent.com/Kad3n13/main/assets/robot.svg" width="20" height="20" style="vertical-align: middle;" />
-      Goals
-    </code>
-    – Frameworks and Libraries to Learn (Click to expand)
+  <summary style="list-style: none; cursor: pointer; display: inline-block;">
+    <a href="https://example.com">
+      <img src="https://raw.githubusercontent.com/Kad3n13/main/assets/robotframework.svg" 
+           width="40" height="40" alt="" />
+    </a>
   </summary>
-
-  <!-- Your framework badges go here -->
-
+  <p>Your dropdown content here</p>
 </details>
 
 
