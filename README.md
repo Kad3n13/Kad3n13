@@ -1,13 +1,17 @@
-<!-- Social Links -->
-<p align="center" style="margin-top: 0;">
+<p align="center">
   <a href="https://www.youtube.com/@kad3n470" title="YouTube" target="_blank" rel="noopener noreferrer">
-    <img width="32" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+ 
+<p align="center"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kaden-oberfeld/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img width="32" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+
+
 
 <!-- Typing SVG Headings -->
 <p align="center">
