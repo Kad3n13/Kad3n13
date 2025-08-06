@@ -22,10 +22,18 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kad3n13&show_icons=true&count_private=true&theme=radical&bg_color=1F222E&title_color=7B1FA2&icon_color=4CAF50&hide_border=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kad3n13&layout=compact&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kad3n13&show_icons=true&count_private=true&theme=radical&bg_color=1F222E&title_color=7B1FA2&icon_color=4CAF50&hide_border=true&cache_seconds=0" 
+    alt="GitHub Stats" 
+  />
+  <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kad3n13&layout=compact&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&langs_count=8&cache_seconds=0" 
+    alt="Top Languages" 
+  />
+  </p>
+  <p align="center"
+  <img 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kad3n13&theme=radical&background=1F222E&ring=6A0DAD&fire=4CAF50&currStreakNum=388E3C&sideNums=4CAF50&currStreakLabel=7B1FA2&sideLabels=6A0DAD&dates=2E7D32&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -37,7 +45,7 @@
   </a>
 </p>
 
-
+<p align="center"
 <div style="text-align:center;">
   <img 
     src="https://github.com/user-attachments/assets/5a9f2dbd-8ed3-458e-9d17-b2fed69d995f" 
@@ -45,7 +53,7 @@
     style="max-width:100%; width: 200px; height: auto;"
   />
 </div>
-
+</p>
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCxjgfIsIVTuHPeKE96vdKYg?sub_confirmation=1">
